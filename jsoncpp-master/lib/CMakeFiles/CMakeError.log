@@ -1,0 +1,54 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine versjon 4.0.30319.33440
+[Microsoft .NET Framework, versjon 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. Med enerett.
+
+Bygging startet 30.11.2014 00:08:21.
+Prosjektet D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdC\CompilerIdC.vcxproj p† noden 1 (standardm†l).
+D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdC\CompilerIdC.vcxproj(14,3): error MSB4019: Finner ikke det importerte prosjektet C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v110\Microsoft.Cpp.Default.props. Bekreft at banen i <Import>-deklarasjonen er korrekt, og at filen finnes p† disken.
+Bygging av prosjektet D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdC\CompilerIdC.vcxproj (standardm†l) er ferdig -- MISLYKTES.
+
+Bygging MISLYKTES.
+
+D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdC\CompilerIdC.vcxproj (standardm†l) (1) ->
+  D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdC\CompilerIdC.vcxproj(14,3): error MSB4019: Finner ikke det importerte prosjektet C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v110\Microsoft.Cpp.Default.props. Bekreft at banen i <Import>-deklarasjonen er korrekt, og at filen finnes p† disken.
+
+    0 advarsel(er)
+    1 feil
+
+Brukt tid 00:00:00.18
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+1
+Microsoft (R) Build Engine versjon 4.0.30319.33440
+[Microsoft .NET Framework, versjon 4.0.30319.34014]
+Copyright (C) Microsoft Corporation. Med enerett.
+
+Bygging startet 30.11.2014 00:08:21.
+Prosjektet D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdCXX\CompilerIdCXX.vcxproj p† noden 1 (standardm†l).
+D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdCXX\CompilerIdCXX.vcxproj(14,3): error MSB4019: Finner ikke det importerte prosjektet C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v110\Microsoft.Cpp.Default.props. Bekreft at banen i <Import>-deklarasjonen er korrekt, og at filen finnes p† disken.
+Bygging av prosjektet D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdCXX\CompilerIdCXX.vcxproj (standardm†l) er ferdig -- MISLYKTES.
+
+Bygging MISLYKTES.
+
+D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdCXX\CompilerIdCXX.vcxproj (standardm†l) (1) ->
+  D:\Devs\libs\jsoncpp-master\lib\CMakeFiles\2.8.10.2\CompilerIdCXX\CompilerIdCXX.vcxproj(14,3): error MSB4019: Finner ikke det importerte prosjektet C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\v110\Microsoft.Cpp.Default.props. Bekreft at banen i <Import>-deklarasjonen er korrekt, og at filen finnes p† disken.
+
+    0 advarsel(er)
+    1 feil
+
+Brukt tid 00:00:00.18
+
+
